@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT IDENTITY NOT NULL PRIMARY KEY,
+	Nome VARCHAR(100),
+	Idade INT,
+)
